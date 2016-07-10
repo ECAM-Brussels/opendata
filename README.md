@@ -1,2 +1,7 @@
 # opendata
-Collection of open datasets collected at ECAM
+
+This repository gathers a collection of open datasets collected from several
+activities oganised at ECAM. Data are currently available for the following
+activities:
+
+- Pythia
